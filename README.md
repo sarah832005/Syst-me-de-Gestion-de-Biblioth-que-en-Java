@@ -1,6 +1,5 @@
-# Projet-Java
-📚 Système de Gestion de Bibliothèque
-## 🎯 Objectif du projet
+# 📚  Système de Gestion de Bibliothèque en Java
+## 🎯 Objectif 
 Le **Système de Gestion de Bibliothèque**    
 L’objectif est de faciliter la gestion des ressources d’une bibliothèque (livres, magazines, DVD) ainsi que les utilisateurs via un menu interactif en mode texte en pratiquant les concepts de la programmation orientée objet (POO).  
 
